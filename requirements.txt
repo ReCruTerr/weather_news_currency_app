@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+aiohttp
+aioredis
+redis
+pytest
+pytest-asyncio
+docker
